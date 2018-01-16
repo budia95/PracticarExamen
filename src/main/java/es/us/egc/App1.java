@@ -10,7 +10,6 @@ public class App1
 {
 	static Logger log= LoggerFactory.getLogger(App1.class);
 
-	//Probando probando
 	public static void main(String[] args) {
 		int a = 10;
 		int b = 2;
